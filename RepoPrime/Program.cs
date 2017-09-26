@@ -12,3 +12,4 @@ namespace Program
 		}
 	}
 }
+//Conflict simulation - Visual Studio
