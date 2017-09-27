@@ -16,3 +16,5 @@ Entry 1:	Tech Module > Technology Fundamentals > Programming Fundamentals > Exer
 	--> Commit via GitBash
 	--> Edit "Exercise.txt" via GitHub
 	--> Commit via GitHub
+	--> Switch to branch "slave2" via GitBash
+	--> Commit via GitBash
