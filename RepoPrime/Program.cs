@@ -12,3 +12,5 @@ namespace Program
 		}
 	}
 }
+/*Secondary conflict simulation - GitBash.
+ * Primary failed due to omitted PUSH*/
