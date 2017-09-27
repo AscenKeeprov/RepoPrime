@@ -5,3 +5,7 @@ This is a test file to train on Git functionality and integration with various G
 Entry 1:	Tech Module > Technology Fundamentals > Programming Fundamentals > Exercise 3: Git and GitHub (27.09.2017)
 ````````
 	--> Commit via TortoiseGit
+	--> Switch to branch "master" via TortoiseGit
+	--> Edit "Exercise.txt" via TortoiseGit
+	--> Commit via TortoiseGit
+	--> Push via TortoiseGit
