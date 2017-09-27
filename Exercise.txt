@@ -16,9 +16,12 @@ Entry 1:	Tech Module > Technology Fundamentals > Programming Fundamentals > Exer
 	--> Commit via GitBash
 	--> Edit "Exercise.txt" via GitHub
 	--> Commit via GitHub
+	--> Switch to branch "slave2" via GitBash
+	--> Commit via GitBash
 	--> Switch from branch "slave2" to branch "master" via GitBash
 	--> Edit "Exercise.txt" via GitBash
 	--> Commit via GitBash
 	--> Merge branch "master" with branch "slave2" via GitBash
 	--> Delete branch "slave2" via GitBash
 	--> Push all changes to GitHub via GitBash
+
