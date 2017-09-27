@@ -12,7 +12,3 @@ namespace Program
 		}
 	}
 }
-/*Secondary conflict simulation - TortoiseGit.
- *Secondary conflict simulation - GitBash.
- *Secondary conflict simulation - Visual Studio.
- * Primary failed due to omitted PUSH*/
