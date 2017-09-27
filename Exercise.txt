@@ -12,6 +12,8 @@ Entry 1:	Tech Module > Technology Fundamentals > Programming Fundamentals > Exer
 	--> Push via TortoiseGit
 =======
 	--> Switch to branch "slave1" via TortoiseGit
-	--> Edit "Exercise.txt"
+	--> Edit "Exercise.txt" via TortoiseGit
 	--> Commit via TortoiseGit
 >>>>>>> slave1
+	--> Edit "Exercise.txt" via GitHub
+	--> Commit via GitHub
