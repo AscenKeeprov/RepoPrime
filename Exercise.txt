@@ -24,4 +24,3 @@ Entry 1:	Tech Module > Technology Fundamentals > Programming Fundamentals > Exer
 	--> Merge branch "master" with branch "slave2" via GitBash
 	--> Delete branch "slave2" via GitBash
 	--> Push all changes to GitHub via GitBash
-
